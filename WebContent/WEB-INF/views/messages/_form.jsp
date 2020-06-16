@@ -10,7 +10,7 @@
     </div>
 </c:if>
 
-<label for="content">メッセージ</label><br />
+<label for="content">タスク</label><br />
 <input type="text" name="content" value="${message.content}" />
 <br /><br />
 
